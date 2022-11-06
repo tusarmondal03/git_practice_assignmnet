@@ -7,4 +7,4 @@ let prime = (num) => {
 }
 
 let num = 43;
-prime(num) ? console.log(num, "is prime") : console.log(num, "is not prime");
+prime(num) ? console.log(num, "is Prime") : console.log(num, "is not Prime");
